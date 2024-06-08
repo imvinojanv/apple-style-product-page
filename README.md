@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Styled Product Page like Apple.com
+![Screenshot 2024-06-08 at 11-53-32 Apple Style Product Page](https://github.com/imvinojanv/apple-style-product-page/assets/48822560/ea34550e-042f-48ab-8f54-d57f5592fe8c)
 
 ## Getting Started
 
